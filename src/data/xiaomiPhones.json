@@ -1,0 +1,58 @@
+[
+  {
+    "id": "9a15b22b-e724-4da2-b340-7638f77f5d2d",
+    "brand": "Xiaomi",
+    "name": "Redmi Note 12 Pro Speed",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro-speed.jpg",
+    "price": 250,
+    "detail": "http://phone-specs-api.azharimm.dev/xiaomi_redmi_note_12_pro_speed-12045"
+  },
+  {
+    "id": "16397018-7c5d-41bc-81ca-a30735dccac1",
+    "brand": "Xiaomi ",
+    "name": "13 Pro",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-13-pro-black.jpg",
+    "price": 900,
+    "detail": "http://phone-specs-api.azharimm.dev/xiaomi_13_pro-11962"
+  },
+  {
+    "id": "f5ae68b6-0051-4dab-98ac-26c1dbffb7fa",
+    "brand": "Xiaomi ",
+    "name": "Redmi Note 12 Pro",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro.jpg",
+    "price": 269,
+    "detail": "http://phone-specs-api.azharimm.dev/xiaomi_redmi_note_12_pro-11955"
+  },
+  {
+    "id": "2229927c-9bb9-4902-b982-cd51c33673bb",
+    "brand": "Xiaomi ",
+    "name": "Redmi Note 11R",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11r.jpg",
+    "price": 200,
+    "detail": "http://phone-specs-api.azharimm.dev/xiaomi_redmi_note_11r-11904"
+  },
+  {
+    "id": "0888a5cc-4b44-4e27-bdd7-edc7a2f52be5",
+    "brand": "Xiaomi ",
+    "name": "Redmi A1",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-a1.jpg",
+    "price": 100,
+    "detail": "http://phone-specs-api.azharimm.dev/xiaomi_redmi_a1-11848"
+  },
+  {
+    "id": "ee3ec4d1-fd53-4313-9e3b-4fe7da0dd7d9",
+    "brand": "Xiaomi ",
+    "name": "12 Pro (Dimensity)",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12-pro-dimensity.jpg",
+    "price": 700,
+    "detail": "http://phone-specs-api.azharimm.dev/xiaomi_12_pro_(dimensity)-11652"
+  },
+  {
+    "id": "f819f8f7-b93b-4f49-9718-f3e082e95fe8",
+    "brand": "Xiaomi ",
+    "name": "Poco M4 5G",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m4-5g-global.jpg",
+    "price": 230,
+    "detail": "http://phone-specs-api.azharimm.dev/xiaomi_poco_m4_5g-11762"
+  }
+]
